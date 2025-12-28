@@ -1,0 +1,257 @@
+# depslib dependency file v1.0
+1766884254 source:g:\moataz work\projects\bank managment system2\src\add.c
+	"add.h"
+	"helper1.h"
+	"helper2.h"
+	"Save.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1766804833 g:\moataz work\projects\bank managment system2\src\add.h
+	"helper1.h"
+
+1766853119 g:\moataz work\projects\bank managment system2\src\helper1.h
+
+1766879967 g:\moataz work\projects\bank managment system2\src\helper2.h
+	"helper1.h"
+
+1766837729 g:\moataz work\projects\bank managment system2\src\save.h
+	"helper1.h"
+
+1766884519 source:g:\moataz work\projects\bank managment system2\src\advancedsearch.c
+	"AdvancedSearch.h"
+	"helper1.h"
+	"helper2.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1766728486 g:\moataz work\projects\bank managment system2\src\advancedsearch.h
+	"helper1.h"
+
+1766879810 source:g:\moataz work\projects\bank managment system2\src\changestatus.c
+	"ChangeStatus.h"
+	"helper1.h"
+	"ChangeStatus.h"
+	"helper1.h"
+	"helper2.h"
+	"Save.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1766843295 g:\moataz work\projects\bank managment system2\src\changestatus.h
+	"helper1.h"
+
+1766868133 source:g:\moataz work\projects\bank managment system2\src\dailylimit.c
+	"DailyLimit.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1766794910 g:\moataz work\projects\bank managment system2\src\dailylimit.h
+
+1766872796 source:g:\moataz work\projects\bank managment system2\src\delete.c
+	"Delete.h"
+	"helper1.h"
+	"helper2.h"
+	"Save.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1766845541 g:\moataz work\projects\bank managment system2\src\delete.h
+	"helper1.h"
+
+1766883871 source:g:\moataz work\projects\bank managment system2\src\deletemultiple.c
+	"DeleteMultiple.h"
+	"helper1.h"
+	"helper2.h"
+	"Save.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1766851095 g:\moataz work\projects\bank managment system2\src\deletemultiple.h
+	"helper1.h"
+
+1766868690 source:g:\moataz work\projects\bank managment system2\src\deposit.c
+	"Deposit.h"
+	"helper1.h"
+	"helper2.h"
+	"Report.h"
+	"Save.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1766787033 g:\moataz work\projects\bank managment system2\src\deposit.h
+	"helper1.h"
+
+1766791405 g:\moataz work\projects\bank managment system2\src\report.h
+	"helper1.h"
+
+1766871085 source:g:\moataz work\projects\bank managment system2\src\helper1.c
+	"helper1.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+
+1766879810 source:g:\moataz work\projects\bank managment system2\src\helper2.c
+	"helper2.h"
+	"helper1.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1766882746 source:g:\moataz work\projects\bank managment system2\src\load.c
+	"Load.h"
+	"helper1.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1766727934 g:\moataz work\projects\bank managment system2\src\load.h
+	"helper1.h"
+
+1766867999 source:g:\moataz work\projects\bank managment system2\src\login.c
+	"Login.h"
+	"helper1.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1766806342 g:\moataz work\projects\bank managment system2\src\login.h
+
+1766853563 source:g:\moataz work\projects\bank managment system2\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	"helper1.h"
+	"Login.h"
+	"Load.h"
+	"Menu.h"
+
+1766851095 g:\moataz work\projects\bank managment system2\src\menu.h
+	"helper1.h"
+
+1766884519 source:g:\moataz work\projects\bank managment system2\src\menu.c
+	"Menu.h"
+	"helper1.h"
+	"helper2.h"
+	"Add.h"
+	"Delete.h"
+	"DeleteMultiple.h"
+	"Modify.h"
+	"Search.h"
+	"AdvancedSearch.h"
+	"ChangeStatus.h"
+	"Withdraw.h"
+	"Deposit.h"
+	"Transfer.h"
+	"Report.h"
+	"SortedPrint.h"
+	"Quit.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1766766227 g:\moataz work\projects\bank managment system2\src\modify.h
+	"helper1.h"
+
+1766806637 g:\moataz work\projects\bank managment system2\src\search.h
+	"helper1.h"
+
+1766793142 g:\moataz work\projects\bank managment system2\src\withdraw.h
+	"helper1.h"
+
+1766787200 g:\moataz work\projects\bank managment system2\src\transfer.h
+	"helper1.h"
+
+1766840132 g:\moataz work\projects\bank managment system2\src\sortedprint.h
+	"helper1.h"
+
+1766836508 g:\moataz work\projects\bank managment system2\src\quit.h
+	"helper1.h"
+
+1766872459 source:g:\moataz work\projects\bank managment system2\src\modify.c
+	"Modify.h"
+	"helper1.h"
+	"helper2.h"
+	"Save.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1766858987 source:g:\moataz work\projects\bank managment system2\src\quit.c
+	"Quit.h"
+	"helper1.h"
+	"helper2.h"
+	"Save.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1766861062 source:g:\moataz work\projects\bank managment system2\src\report.c
+	"Report.h"
+	"helper1.h"
+	"helper2.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1766855060 source:g:\moataz work\projects\bank managment system2\src\save.c
+	"Save.h"
+	"helper1.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1766861063 source:g:\moataz work\projects\bank managment system2\src\search.c
+	"Search.h"
+	"helper1.h"
+	"helper2.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1766885406 source:g:\moataz work\projects\bank managment system2\src\sortedprint.c
+	"SortedPrint.h"
+	"helper1.h"
+	"helper2.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1766878467 source:g:\moataz work\projects\bank managment system2\src\transfer.c
+	"Transfer.h"
+	"helper1.h"
+	"helper2.h"
+	"Report.h"
+	"Save.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1766868690 source:g:\moataz work\projects\bank managment system2\src\withdraw.c
+	"Withdraw.h"
+	"helper1.h"
+	"helper2.h"
+	"Report.h"
+	"DailyLimit.h"
+	"Save.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Bank Managment System2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Bank Managment System2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Bank Managment System2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="src/Add.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Add.h" />
+		<Unit filename="src/AdvancedSearch.h" />
+		<Unit filename="src/Advancedsearch.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/ChangeStatus.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/ChangeStatus.h" />
+		<Unit filename="src/Color.h" />
+		<Unit filename="src/DailyLimit.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/DailyLimit.h" />
+		<Unit filename="src/Delete.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Delete.h" />
+		<Unit filename="src/DeleteMultiple.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/DeleteMultiple.h" />
+		<Unit filename="src/Deposit.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Deposit.h" />
+		<Unit filename="src/Load.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Load.h" />
+		<Unit filename="src/Login.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Login.h" />
+		<Unit filename="src/Menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Menu.h" />
+		<Unit filename="src/Modify.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Modify.h" />
+		<Unit filename="src/Quit.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Quit.h" />
+		<Unit filename="src/Report.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Report.h" />
+		<Unit filename="src/Save.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Save.h" />
+		<Unit filename="src/Search.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Search.h" />
+		<Unit filename="src/SortedPrint.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/SortedPrint.h" />
+		<Unit filename="src/Transfer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Transfer.h" />
+		<Unit filename="src/Withdraw.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Withdraw.h" />
+		<Unit filename="src/helper1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/helper1.h" />
+		<Unit filename="src/helper2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/helper2.h" />
+		<Unit filename="src/main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
